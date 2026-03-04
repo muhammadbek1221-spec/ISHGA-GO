@@ -1,4 +1,3 @@
-import React from "react";
 import "./Tepa.css";
 import Rasm1 from "../img/Rasm1.png";
 
